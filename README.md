@@ -1,4 +1,4 @@
-# Debian Netboot Home
+# Debian Netboot Preseed
 
 Create preseeded debian netboot using make.
 
